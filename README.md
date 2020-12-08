@@ -1,0 +1,2 @@
+# 88f84916ce5b0f1991626cb95159ac80
+App id 4008D-10F0A-815BE-7DB76-A78BE, version name - Tadapp.DEMO
